@@ -22,7 +22,10 @@ I'm a **Full Web Developer** who loves building things that solve problems and s
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@ThEBengaliFriEnDz/videos)  
 
 ## 📈 GitHub Stats  
-![Emtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=emas15&show_icons=true&theme=dark)  
+![Emtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=emas15&show_icons=true&theme=dark)
+
+## 🧠 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emas15&layout=compact&theme=dark)
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emtiaz%20Ahmed-blue?logo=linkedin)](https://www.linkedin.com/in/emtiaz-ahmed-0a353b232/)  
