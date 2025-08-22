@@ -1,6 +1,12 @@
-# Hi there, I'm Emtiaz Ahmed Siam 👋  
+<!-- Animated Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Emtiaz+Ahmed+Siam+👋;Full+Stack+Web+Developer+💻;Cloud+Computing+%26+AI+Enthusiast+☁️;Always+learning+new+things+🚀)](https://git.io/typing-svg)
 
-I'm a **Full Stack Web Developer** who loves building things that solve problems and satisfy users. Whether it's a **website** or an **app**, I strive to create seamless experiences. I'm also passionate about **Cloud Computing** and **AI/ML**, exploring new technologies to enhance my skill set.  
+---
+
+<!-- Cool PC Animation Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8d/3d/58/8d3d58c22ef6c2b7b4a9c08c9e6f1e45.gif" alt="PC Animation" width="600"/>
+</p>
 
 ---
 
@@ -39,7 +45,7 @@ I'm a **Full Stack Web Developer** who loves building things that solve problems
 
 ---
 
-## 📈 GitHub Stats & Streak  
+## 📊 GitHub Stats & Streak  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emas15&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com?user=emas15&theme=tokyonight" alt="GitHub Streak" height="165"/>
@@ -51,6 +57,15 @@ I'm a **Full Stack Web Developer** who loves building things that solve problems
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emas15&layout=compact&theme=tokyonight" />
 </p>  
+
+---
+
+## 🎉 Fun Animations  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>  
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/>  
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>  
+</p>
 
 ---
 
