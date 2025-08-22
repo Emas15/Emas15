@@ -1,12 +1,10 @@
-<!-- Animated Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Emtiaz+Ahmed+Siam+👋;Full+Stack+Web+Developer+💻;Cloud+Computing+%26+AI+Enthusiast+☁️;Always+learning+new+things+🚀)](https://git.io/typing-svg)
-
----
-
-<!-- Cool PC Animation Banner -->
+<!-- 🚀 Cool PC Animation First -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8d/3d/58/8d3d58c22ef6c2b7b4a9c08c9e6f1e45.gif" alt="PC Animation" width="600"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="800"/>
 </p>
+
+<!-- ✨ Typing Intro -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Emtiaz+Ahmed+Siam+👋;Full+Stack+Web+Developer+💻;Cloud+Computing+%26+AI+Enthusiast+☁️;Always+learning+new+things+🚀)](https://git.io/typing-svg)
 
 ---
 
