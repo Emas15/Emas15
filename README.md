@@ -21,17 +21,14 @@
 
 ## 👤 About Me
 
-> *A CS student from Dhaka who's been writing code since 2021 — not always good code, but always learning.*
 
-I started with websites, dabbled in Python and Django, built a paid project, then went all in on Java and computer science fundamentals. Right now I'm deep in DSA, and I'm building toward backend and AI engineering — step by step, no shortcuts.
 
-- 🎓 2nd year CSE student @ **BRAC University**, Dhaka
-- ☕ **Java** is my primary language — strong with OOP & data structures
-- 📊 Actively grinding **LeetCode** with two friends (Java + C++)
-- 🤖 Exploring the path toward **AI engineering** — FastAPI, LLMs, and beyond
-- 🎬 I make **Java tutorials** on YouTube & Facebook — teaching what I learn
-- 💼 Working at a **web agency** alongside university
-- 🚀 Long-term goal: **FAANG** and eventually my own startup
+-🖥️ Building since 2021 — shipped projects in Python, Django, React, JS & HTML/CSS — now fully locked in on Java + DSA
+- 📊 Grinding **LeetCode in Java** daily, consolidating data structures & algorithms
+- 🤖 Exploring **AI/ML, LLM Engineering, and backend** — heading toward AI engineering
+- 🎬 Sharing **Java tutorials** on YouTube & Facebook to teach what I learn
+- 🚀 Fast learner, consistent when locked in — long-term target: **FAANG & my own startup**
+
 
 ---
 
