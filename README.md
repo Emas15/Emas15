@@ -3,19 +3,35 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Emtiaz+Ahmed+Siam+%F0%9F%91%8B;CSE+Student+%40+BRAC+University;Java+%2B+DSA+%E2%86%92+Backend+%E2%86%92+AI+Engineering;on+my+way+of....+%E2%80%BC%EF%B8%8F)](https://git.io/typing-svg)
 
-📍 Dhaka, Bangladesh &nbsp;|&nbsp; 🎓 2nd Year CSE @ BRACU &nbsp;|&nbsp; 💼 Web Agency &nbsp;|&nbsp; 🎥 Content Creator
+</div>
 
+---
+
+<!-- Visual banner — snake animation of contributions -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Emas15/Emas15/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="contribution snake dark"/>
+  <img src="https://raw.githubusercontent.com/Emas15/Emas15/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="contribution snake light"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1DA1F2&height=80&section=header&fontSize=0" width="100%"/>
 </div>
 
 ---
 
 ## 👤 About Me
 
-- 🖥️ Coding since **2021** — touched Python, JS, HTML/CSS, now fully locked in on **Java + DSA**
-- 📊 Grinding **LeetCode in Java** daily, consolidating data structures & algorithms
-- 🤖 Exploring **AI/ML, LLM Engineering, and backend** — heading toward AI engineering
-- 🎬 Sharing **Java tutorials** on YouTube & Facebook to teach what I learn
-- 🚀 Fast learner, consistent when locked in — long-term target: **FAANG & my own startup**
+> *A CS student from Dhaka who's been writing code since 2021 — not always good code, but always learning.*
+
+I started with websites, dabbled in Python and Django, built a paid project, then went all in on Java and computer science fundamentals. Right now I'm deep in DSA, and I'm building toward backend and AI engineering — step by step, no shortcuts.
+
+- 🎓 2nd year CSE student @ **BRAC University**, Dhaka
+- ☕ **Java** is my primary language — strong with OOP & data structures
+- 📊 Actively grinding **LeetCode** with two friends (Java + C++)
+- 🤖 Exploring the path toward **AI engineering** — FastAPI, LLMs, and beyond
+- 🎬 I make **Java tutorials** on YouTube & Facebook — teaching what I learn
+- 💼 Working at a **web agency** alongside university
+- 🚀 Long-term goal: **FAANG** and eventually my own startup
 
 ---
 
@@ -23,24 +39,24 @@
 
 **Strong now**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-active-blue?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Learning / rebuilding**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Exploring → goal**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![LLM Engineering](https://img.shields.io/badge/LLM_Engineering-goal-orange?style=flat)
-![AI/ML](https://img.shields.io/badge/AI%2FML-exploring-orange?style=flat)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
@@ -48,10 +64,10 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🏥 [Mental Health Website](https://github.com/Emas15/Mental-health-website) | Paid client project — built from scratch independently | HTML · SCSS |
-| 📚 [LeetCode Solutions](https://github.com/Emas15/LeetCode_Solution) | Collaborative DSA grind with 2 friends — consistent daily solving | Java · C++ |
-| 🌍 [Natours](https://github.com/Emas15/Natours) | Polished tour website showcasing advanced CSS animations | HTML · CSS · JS |
-| 📦 [Inventory Management](https://github.com/Emas15/Inventory-management) | JavaScript app for managing inventory — practical real-world problem | JavaScript |
+| 🏥 [Mental Health Website](https://github.com/Emas15/Mental-health-website) | Paid client project — built from scratch, independently delivered | HTML · SCSS |
+| 📚 [LeetCode Solutions](https://github.com/Emas15/LeetCode_Solution) | Collaborative DSA grind with 2 friends — daily solving | Java · C++ |
+| 🌍 [Natours](https://github.com/Emas15/Natours) | Polished tour website with advanced CSS animations | HTML · CSS · JS |
+| 📦 [Inventory Management](https://github.com/Emas15/Inventory-management) | JS app for managing inventory — practical real-world problem | JavaScript |
 
 ---
 
@@ -59,62 +75,58 @@
 
 > Teaching what I learn — short, focused tutorials on Java concepts
 
-| Video | Platform |
-|-------|----------|
-| 📂 [File Handling in Java](https://www.facebook.com/reel/1223515949703330) | Facebook Reel |
-| 🧩 [Abstraction in Java](https://www.facebook.com/reel/1224566805974170) | Facebook Reel |
-| 🔍 [Java Problem Walkthrough](https://www.facebook.com/reel/1344140829943161) | Facebook Reel |
+| Video | Topic | Platform |
+|-------|-------|----------|
+| ▶️ [Watch](https://www.facebook.com/reel/1223515949703330) | File Handling in Java | Facebook Reel |
+| ▶️ [Watch](https://www.facebook.com/reel/1224566805974170) | Abstraction in Java | Facebook Reel |
+| ▶️ [Watch](https://www.facebook.com/reel/1344140829943161) | Java Problem Walkthrough & Explanation | Facebook Reel |
 
-▶️ More on my [YouTube Channel](https://www.youtube.com/@ThEBengaliFriEnDz/videos)
+📺 More on my [YouTube Channel →](https://www.youtube.com/@ThEBengaliFriEnDz/videos)
 
 ---
 
 ## 🗺️ Skill Journey
 
-```
-✅ FOUNDATIONS                          [2021 – 2023]
-   HTML/CSS · JavaScript · Python basics
-   Django (intro) · React (intro) · first paid project
+<div align="center">
 
-✅ JAVA & CS CORE                       [2024 – 2025]
-   Java (strong) · OOP · Data Structures
-   Algorithms · Git/GitHub · content creation
+| Phase | Period | Skills | Status |
+|-------|--------|--------|--------|
+| 🌱 Foundations | 2021 – 2023 | HTML/CSS · JS · Python · Django · React · first paid project | ✅ Done |
+| ☕ Java & CS Core | 2024 – 2025 | Java · OOP · DSA · Algorithms · Git · content creation | ✅ Done |
+| 🔵 DSA Grind + Backend | 2025 – 2026 | LeetCode · Algorithms course · Python · FastAPI · PostgreSQL | 🔵 Now |
+| 🤖 AI Engineering | 2026 → | LLM Engineering · AI/ML · AWS · System Design | ⬜ Next |
+| 🎯 Destination | Future | FAANG · startup · something big | ⬜ Soon |
 
-🔵 DSA GRIND + BACKEND                 [2025 – 2026]  ← here
-   LeetCode (Java) · Algorithms course
-   Python (rebuilding) · FastAPI · PostgreSQL
-
-⬜ AI ENGINEERING                       [2026 →]
-   LLM Engineering · AI/ML · AWS
-   System Design · FAANG prep
-
-⬜ DESTINATION                          [future]
-   FAANG · startup · something big
-```
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emas15&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=emas15&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=emas15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=emas15&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emas15&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emas15&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </div>
 
 ---
 
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emtiaz_Ahmed-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/emtiaz-ahmed-0a353b232/)
-[![YouTube](https://img.shields.io/badge/YouTube-ThEBengaliFriEnDz-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@ThEBengaliFriEnDz/videos)
-[![GitHub](https://img.shields.io/badge/GitHub-Emas15-181717?style=flat&logo=github)](https://github.com/Emas15)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emtiaz_Ahmed-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emtiaz-ahmed-0a353b232/)
+[![YouTube](https://img.shields.io/badge/YouTube-ThEBengaliFriEnDz-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ThEBengaliFriEnDz/videos)
+[![GitHub](https://img.shields.io/badge/GitHub-Emas15-181717?style=for-the-badge&logo=github)](https://github.com/Emas15)
+
+</div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1DA1F2&height=80&section=footer&fontSize=0" width="100%"/>
   <sub>on my way of.... ‼️</sub>
 </div>
