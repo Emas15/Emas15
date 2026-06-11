@@ -1,76 +1,120 @@
-<!-- 🚀 Cool PC Animation First -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="800"/>
-</p>
+<!-- Header -->
+<div align="center">
 
-<!-- ✨ Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Emtiaz+Ahmed+Siam+👋;Full+Stack+Web+Developer+💻;Cloud+Computing+%26+AI+Enthusiast+☁️;Always+learning+new+things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Emtiaz+Ahmed+Siam+%F0%9F%91%8B;CSE+Student+%40+BRAC+University;Java+%2B+DSA+%E2%86%92+Backend+%E2%86%92+AI+Engineering;on+my+way+of....+%E2%80%BC%EF%B8%8F)](https://git.io/typing-svg)
 
----
+📍 Dhaka, Bangladesh &nbsp;|&nbsp; 🎓 2nd Year CSE @ BRACU &nbsp;|&nbsp; 💼 Web Agency &nbsp;|&nbsp; 🎥 Content Creator
 
-## ⚡ About Me  
-- 🌱 Currently diving deeper into **Cloud & AI/ML**  
-- 💻 Love solving problems with **JavaScript, React, Next.js**  
-- 🎯 Goal: Become a **Cloud Solution Architect** & build my own **startup**  
-- 🎥 I also share knowledge on **YouTube**  
+</div>
 
 ---
 
-## 🚀 Tech Stack & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,react,nextjs,nodejs,tailwind,git,github,figma,vscode,linux,aws" />
-</p>
+## 👤 About Me
+
+- 🖥️ Coding since **2021** — touched Python, JS, HTML/CSS, now fully locked in on **Java + DSA**
+- 📊 Grinding **LeetCode in Java** daily, consolidating data structures & algorithms
+- 🤖 Exploring **AI/ML, LLM Engineering, and backend** — heading toward AI engineering
+- 🎬 Sharing **Java tutorials** on YouTube & Facebook to teach what I learn
+- 🚀 Fast learner, consistent when locked in — long-term target: **FAANG & my own startup**
 
 ---
 
-## 💼 Featured Projects  
-### 🏥 Mental Health Website  
-🔹 A **paid project** built to provide resources and support for mental health.  
-🔹 Built with modern web technologies for a smooth and engaging user experience.  
+## 🛠️ Tech Stack
 
-### 🌍 Natours  
-🔹 A beautifully designed **CSS project** that showcases my front-end development skills.  
+**Strong now**
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-active-blue?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 🎥 Latest YouTube Video  
-[![Check out my latest video](https://img.youtube.com/vi/CWUdfkbmPPg/0.jpg)](https://www.youtube.com/watch?v=CWUdfkbmPPg)  
+**Learning / rebuilding**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 
-## 📺 My YouTube Channel  
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@ThEBengaliFriEnDz/videos)  
+**Exploring → goal**
 
----
-
-## 📊 GitHub Stats & Streak  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emas15&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=emas15&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![LLM Engineering](https://img.shields.io/badge/LLM_Engineering-goal-orange?style=flat)
+![AI/ML](https://img.shields.io/badge/AI%2FML-exploring-orange?style=flat)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 🧠 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emas15&layout=compact&theme=tokyonight" />
-</p>  
+## ⭐ Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🏥 [Mental Health Website](https://github.com/Emas15/Mental-health-website) | Paid client project — built from scratch independently | HTML · SCSS |
+| 📚 [LeetCode Solutions](https://github.com/Emas15/LeetCode_Solution) | Collaborative DSA grind with 2 friends — consistent daily solving | Java · C++ |
+| 🌍 [Natours](https://github.com/Emas15/Natours) | Polished tour website showcasing advanced CSS animations | HTML · CSS · JS |
+| 📦 [Inventory Management](https://github.com/Emas15/Inventory-management) | JavaScript app for managing inventory — practical real-world problem | JavaScript |
 
 ---
 
+## 🎬 Content — Java Tutorials
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>  
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/>  
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>  
-</p>
+> Teaching what I learn — short, focused tutorials on Java concepts
+
+| Video | Platform |
+|-------|----------|
+| 📂 [File Handling in Java](https://www.facebook.com/reel/1223515949703330) | Facebook Reel |
+| 🧩 [Abstraction in Java](https://www.facebook.com/reel/1224566805974170) | Facebook Reel |
+| 🔍 [Java Problem Walkthrough](https://www.facebook.com/reel/1344140829943161) | Facebook Reel |
+
+▶️ More on my [YouTube Channel](https://www.youtube.com/@ThEBengaliFriEnDz/videos)
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emtiaz%20Ahmed-blue?logo=linkedin)](https://www.linkedin.com/in/emtiaz-ahmed-0a353b232/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-orange?logo=firefox)](#)  
+## 🗺️ Skill Journey
+
+```
+✅ FOUNDATIONS                          [2021 – 2023]
+   HTML/CSS · JavaScript · Python basics
+   Django (intro) · React (intro) · first paid project
+
+✅ JAVA & CS CORE                       [2024 – 2025]
+   Java (strong) · OOP · Data Structures
+   Algorithms · Git/GitHub · content creation
+
+🔵 DSA GRIND + BACKEND                 [2025 – 2026]  ← here
+   LeetCode (Java) · Algorithms course
+   Python (rebuilding) · FastAPI · PostgreSQL
+
+⬜ AI ENGINEERING                       [2026 →]
+   LLM Engineering · AI/ML · AWS
+   System Design · FAANG prep
+
+⬜ DESTINATION                          [future]
+   FAANG · startup · something big
+```
 
 ---
 
-✨ *Looking forward to collaborating and learning together!* 🚀
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emas15&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=emas15&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emas15&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emtiaz_Ahmed-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/emtiaz-ahmed-0a353b232/)
+[![YouTube](https://img.shields.io/badge/YouTube-ThEBengaliFriEnDz-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@ThEBengaliFriEnDz/videos)
+[![GitHub](https://img.shields.io/badge/GitHub-Emas15-181717?style=flat&logo=github)](https://github.com/Emas15)
+
+---
+
+<div align="center">
+  <sub>on my way of.... ‼️</sub>
+</div>
