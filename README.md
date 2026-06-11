@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Emtiaz+Ahmed+Siam+%F0%9F%91%8B;CSE+Student+%40+BRAC+University;Java+%2B+DSA+%E2%86%92+Backend+%E2%86%92+AI+Engineering;on+my+way+of....+%E2%80%BC%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Emtiaz+Ahmed+Siam+%F0%9F%91%8B;I+build+real+things%2C+break+them%2C+and+figure+out+why;Always+learning+%E2%80%94+always+a+step+closer+to+something+big;The+passion+never+stops+%E2%80%BC%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 
 
--🖥️ Building since 2021 — shipped projects in Python, Django, React, JS & HTML/CSS — now fully locked in on Java + DSA
+- 🖥️ Building since 2021 — shipped projects in Python, Django, React, JS & HTML/CSS — now fully locked in on Java + DSA
 - 📊 Grinding **LeetCode in Java** daily, consolidating data structures & algorithms
 - 🤖 Exploring **AI/ML, LLM Engineering, and backend** — heading toward AI engineering
 - 🎬 Sharing **Java tutorials** on YouTube & Facebook to teach what I learn
@@ -35,25 +35,25 @@
 ## 🛠️ Tech Stack
 
 **Strong now**
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Learning / rebuilding**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Exploring → goal**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Engineering](https://img.shields.io/badge/LLM_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
