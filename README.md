@@ -41,6 +41,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **Learning / rebuilding**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,6 +67,12 @@
 | 📚 [LeetCode Solutions](https://github.com/Emas15/LeetCode_Solution) | Collaborative DSA grind with 2 friends — daily solving | Java · C++ |
 | 🌍 [Natours](https://github.com/Emas15/Natours) | Polished tour website with advanced CSS animations | HTML · CSS · JS |
 | 📦 [Inventory Management](https://github.com/Emas15/Inventory-management) | JS app for managing inventory — practical real-world problem | JavaScript |
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=emas15&style=for-the-badge&color=1DA1F2)
 
 ---
 
