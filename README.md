@@ -23,7 +23,7 @@
 
 
 
-- 🖥️ Building since 2021 — shipped projects in Python, Django, React, JS & HTML/CSS — now fully locked in on Java + DSA
+- 🖥️ Building since 2021 — shipped projects in Python, Django, React, JS & HTML/CSS
 - 📊 Grinding **LeetCode in Java** daily, consolidating data structures & algorithms
 - 🤖 Exploring **AI/ML, LLM Engineering, and backend** — heading toward AI engineering
 - 🎬 Sharing **Java tutorials** on YouTube & Facebook to teach what I learn
