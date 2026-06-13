@@ -96,11 +96,11 @@
 
 | Phase | Period | Skills | Status |
 |-------|--------|--------|--------|
-| 🌱 Foundations | 2021 – 2023 | HTML/CSS · JS · Python · Django · React · first paid project | ✅ Done |
-| ☕ Java & CS Core | 2024 – 2025 | Java · OOP · DSA · Algorithms · Git · content creation | ✅ Done |
-| 🔵 DSA Grind + Backend | 2025 – 2026 | LeetCode · Algorithms course · Python · FastAPI · PostgreSQL | 🔵 Now |
-| 🤖 AI Engineering | 2026 → | LLM Engineering · AI/ML · AWS · System Design | ⬜ Next |
-| 🎯 Destination | Future | FAANG · startup · something big | ⬜ Soon |
+| 🌱 Foundations | 2021 – 2023 | HTML/CSS · JS · Python · Django · React · first paid project
+| ☕ Java & CS Core | 2024 – 2025 | Java · OOP · DSA · Algorithms · Git · content creation
+| 🔵 DSA Grind + Backend | 2025 – 2026 | LeetCode · Algorithms course · Python · FastAPI · PostgreSQL
+| 🤖 AI Engineering | 2026 → | LLM Engineering · AI/ML · AWS · System Design
+| 🎯 Destination | Future | FAANG · startup · something big 
 
 </div>
 
