@@ -7,10 +7,11 @@
 
 ---
 
-<!-- Visual banner — snake animation of contributions -->
+<!-- Animated "whoami" terminal block — line by line typing, stays after typing -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Emas15/Emas15/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="contribution snake dark"/>
-  <img src="https://raw.githubusercontent.com/Emas15/Emas15/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="contribution snake light"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&height=280&lines=siam%40github+~+%24+whoami;;Now%3A+++++++Web+Agency+Dev+%2B+CSE+Student+%40+BRACU;Goal%3A+++++Data+Engineer+%28ETL%2C+PostgreSQL%2C+Airflow%29;Edu%3A+++++++BRAC+University%2C+CSE%2C+CGPA+3.7%2B;;-+Stack+--------------------------;Now%3A+++++++Java%2C+JS%2C+HTML%2FCSS%2C+Git;Learning%3A+++Python%2C+Linux;Goal%3A+++++++FastAPI%2C+PostgreSQL%2C+AWS%2C+LLM+Eng;;-+Highlights+-----------------;%E2%80%A2+Teaching+Java+on+YouTube+%40ThEBengaliFriEnDz;%E2%80%A2+Collaborative+LeetCode+grind+with+2+friends&repeat=false)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
@@ -21,14 +22,15 @@
 
 ## 👤 About Me
 
-
+<img align="right" src="https://raw.githubusercontent.com/Emas15/Emas15/main/assets/profile.jpg" width="230" alt="Siam"/>
 
 - 🖥️ Building since 2021 — shipped projects in Python, Django, React, JS & HTML/CSS
 - 📊 Grinding **LeetCode in Java** daily, consolidating data structures & algorithms
-- 🤖 Exploring **AI/ML, LLM Engineering, and backend** — heading toward AI engineering
+- 🗄️ Pivoting toward **Data Engineering** — ETL pipelines, PostgreSQL, Airflow, AWS
 - 🎬 Sharing **Java tutorials** on YouTube & Facebook to teach what I learn
 - 🚀 Fast learner, consistent when locked in — long-term target: **FAANG & my own startup**
 
+<br clear="right"/>
 
 ---
 
@@ -99,8 +101,8 @@
 | 🌱 Foundations | 2021 – 2023 | HTML/CSS · JS · Python · Django · React · first paid project
 | ☕ Java & CS Core | 2024 – 2025 | Java · OOP · DSA · Algorithms · Git · content creation
 | 🔵 DSA Grind + Backend | 2025 – 2026 | LeetCode · Algorithms course · Python · FastAPI · PostgreSQL
-| 🤖 AI Engineering | 2026 → | LLM Engineering · AI/ML · AWS · System Design
-| 🎯 Destination | Future | FAANG · startup · something big 
+| 🗄️ Data Engineering | 2026 → | SQL · Airflow · Spark · Snowflake/BigQuery · AWS
+| 🎯 Destination | Future | FAANG · startup · Master's in Dublin, Ireland
 
 </div>
 
@@ -115,6 +117,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emas15&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+</div>
+
+---
+
+<!-- Visual banner — snake animation of contributions -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Emas15/Emas15/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="contribution snake dark"/>
+  <img src="https://raw.githubusercontent.com/Emas15/Emas15/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="contribution snake light"/>
 </div>
 
 ---
